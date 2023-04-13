@@ -5,4 +5,5 @@ dashboard public link-https://public.tableau.com/views/hotel_radisson_analysis_1
 
 story public link-https://public.tableau.com/views/hotel_radisson_analysis_16812830353620/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-video demonstration link=
+video demonstration link=https://drive.google.com/file/d/1FgdxY_Nwljiq0wKqp9CqljIQyH4VxycI/view?usp=drivesdk
+
